@@ -32,7 +32,7 @@ intents = {
 # Response mapping
 
 responses = {
-    "Greeting": ["Hi How can i help you"],
+    "Greeting": "Hello! How can I assist you today?",
     "course_inquiry": "We offer courses in B.tech, MCA, BBA",
     "eligibility": "Eligibility varies by course. Check the specific course details.",
     "fee_structure": "The fee structure depends on the course and duration. Please check our website for details.",

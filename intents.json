@@ -1,0 +1,42 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hello",
+          "Hi",
+          "Good morning",
+          "Hey"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?",
+          "Hi there! How can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Goodbye",
+          "Bye",
+          "See you later"
+        ],
+        "responses": [
+          "Goodbye! Feel free to ask me anything anytime.",
+          "Bye! Have a great day ahead!"
+        ]
+      },
+      {
+        "tag": "admission_process",
+        "patterns": [
+          "How can I apply for admission?",
+          "What is the admission process?",
+          "Tell me how to get into RVS College"
+        ],
+        "responses": [
+          "You can apply for admission by visiting our admissions page at [admissions link]."
+        ]
+      }
+      
+    ]
+  }
+  
